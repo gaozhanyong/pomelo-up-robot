@@ -1,0 +1,29 @@
+{
+  "name": "pomelo-up-robot",
+  "version": "1.0.0",
+  "description": "compatible with node.js V8+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaozhanyong/pomelo-up-robot.git"
+  },
+  "keywords": [
+    "pomelo",
+    "client",
+    "robot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaozhanyong/pomelo-up-robot/issues"
+  },
+  "homepage": "https://github.com/gaozhanyong/pomelo-up-robot#readme",
+  "dependencies": {
+    "socket.io": "^1.7.4",
+    "socket.io-client": "^1.7.4",
+    "underscore": "^1.9.0"
+  }
+}
